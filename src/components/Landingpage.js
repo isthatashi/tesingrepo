@@ -1,7 +1,7 @@
 import React from 'react'
 import sparkler from "../assets/sparkler.png"
 import pic_2 from "../assets/pic_2.jpg"
-import {BrowserRouter as Router, Route, Routes } from "react-router-dom";
+// import {BrowserRouter as Router, Route, Routes } from "react-router-dom";no
 import arrow from "../assets/arrow.png"
 import pin from "../assets/pin.png"
 
